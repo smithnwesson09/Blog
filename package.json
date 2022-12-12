@@ -5,7 +5,7 @@
   "dependencies": {
     "ejs": "^3.0.2",
     "aws-sdk": "latest",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "body-parser": "latest",
     "gray-matter": "^4.0.2",
     "highlight.js": "^9.15.10",
